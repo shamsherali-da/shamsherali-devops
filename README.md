@@ -3,7 +3,7 @@
 
 ---
 
-# 👨‍💻 Software Engineer | 📊 Data Analyst | 🛡️ Cybersecurity Analyst | 💻 Freelancer  
+## 👨‍💻 Software Engineer | 📊 Data Analyst | 🛡️ Cybersecurity Analyst | 💻 Freelancer  
 🚀 *Transforming data into insights. Securing digital ecosystems. Delivering solutions with precision.*  
 
 ---
